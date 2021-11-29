@@ -2,37 +2,7 @@
 
 This is a simple REST API built using Flask for getting and updating a movies list given below :
 
-movies = [
-    {
-        'name' : 'Dune',
-        'actors': [
-            {
-                'name' : 'Zendaya',
-                'age'  : '23'
-            },
-            {
-                'name' : 'Timothee Chalamet',
-                'age'  : '26'
-            }
-        ],
-        'ratings' : '7.2'
-    },
-    {
-        'name' : 'The French Dispatch',
-        'actors': [
-            {
-                'name': 'Bill Murray',
-                'age' : '56'
-                
-            },
-            {
-                'name': 'Frances Mcdormand',
-                'age' : '54'
-            }
-        ],
-        'ratings' : '8.0'
-    }
-]
+
 
 Following endpoints have been defined : 
 
